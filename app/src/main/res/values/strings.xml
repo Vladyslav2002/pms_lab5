@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="title_lab1">General</string>
+    <string name="title_lab2">Item 2</string>
+    <string name="title_lab3">Books</string>
+    <string name="title_lab5">Images</string>
+</resources>
